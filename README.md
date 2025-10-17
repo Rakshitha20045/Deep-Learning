@@ -6,6 +6,7 @@ Link:
 
 Stock Price Prediction :
      Dataset details : 
+                       
                        Open → price when the market opens that day (first trade of the day).
      
                        High → highest price reached during the day.
