@@ -6,7 +6,13 @@ Link:
 
 Stock Price Prediction :
      Dataset details : Open → price when the market opens that day (first trade of the day).
+     
                        High → highest price reached during the day.
+                       
                        Low → lowest price during the day.
+                       
                        Close → price when the market closes.
+                       
                        Volume → total number of shares traded that day.
+                       
+Keras Documentation : https://keras.io/api/
