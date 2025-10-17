@@ -5,7 +5,8 @@ Link:
    2.https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 Stock Price Prediction :
-     Dataset details : Open → price when the market opens that day (first trade of the day).
+     Dataset details : 
+                       Open → price when the market opens that day (first trade of the day).
      
                        High → highest price reached during the day.
                        
