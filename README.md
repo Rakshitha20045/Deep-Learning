@@ -6,7 +6,7 @@ Link:
    
    2.https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
-   3.http://www.ai-junkie.com/ann/som/som1.html
+   3.http://www.ai-junkie.com/ann/som/som1.html - SOM 
 
 Stock Price Prediction :
      Dataset details : 
