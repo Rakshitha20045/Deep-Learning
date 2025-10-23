@@ -22,3 +22,5 @@ Stock Price Prediction :
                        Volume → total number of shares traded that day.
                        
 Keras Documentation : https://keras.io/api/
+
+Pytorch Documentation : https://docs.pytorch.org/docs/main/
