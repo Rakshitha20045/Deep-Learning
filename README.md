@@ -8,6 +8,12 @@ Link:
 
    3.http://www.ai-junkie.com/ann/som/som1.html - SOM 
 
+   4.Keras Documentation : https://keras.io/api/
+
+   5.Pytorch Documentation : https://docs.pytorch.org/docs/main/
+
+   6.Boltzmann Distribution : https://en.wikipedia.org/wiki/Boltzmann_distribution
+
 Stock Price Prediction :
      Dataset details : 
                        
@@ -21,6 +27,4 @@ Stock Price Prediction :
                        
                        Volume → total number of shares traded that day.
                        
-Keras Documentation : https://keras.io/api/
 
-Pytorch Documentation : https://docs.pytorch.org/docs/main/
