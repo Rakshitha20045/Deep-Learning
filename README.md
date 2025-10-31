@@ -5,8 +5,8 @@ Link:
    1.https://colah.github.io/posts/2015-08-Understanding-LSTMs/
    
    2.https://karpathy.github.io/2015/05/21/rnn-effectiveness/
-
-   3. SOM : http://www.ai-junkie.com/ann/som/som1.html
+   
+   3.SOM : http://www.ai-junkie.com/ann/som/som1.html
 
    4.Keras Documentation : https://keras.io/api/
 
@@ -15,6 +15,8 @@ Link:
    6.Boltzmann Distribution : https://en.wikipedia.org/wiki/Boltzmann_distribution
 
    7. Neural Networks by Malte Skarupke : https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/
+
+   8. Autoencoders :  https://blog.keras.io/building-autoencoders-in-keras.html
 
 Stock Price Prediction :
      Dataset details : 
