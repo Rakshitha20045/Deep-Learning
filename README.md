@@ -1,4 +1,3 @@
-# RNN 
 
 Link:
 
