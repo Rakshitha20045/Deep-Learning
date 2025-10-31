@@ -6,13 +6,15 @@ Link:
    
    2.https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
-   3.http://www.ai-junkie.com/ann/som/som1.html - SOM 
+   3. SOM : http://www.ai-junkie.com/ann/som/som1.html
 
    4.Keras Documentation : https://keras.io/api/
 
    5.Pytorch Documentation : https://docs.pytorch.org/docs/main/
 
    6.Boltzmann Distribution : https://en.wikipedia.org/wiki/Boltzmann_distribution
+
+   7. Neural Networks by Malte Skarupke : https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/
 
 Stock Price Prediction :
      Dataset details : 
